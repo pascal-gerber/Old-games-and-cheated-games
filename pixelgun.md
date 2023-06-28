@@ -3,6 +3,8 @@
 [Click here to access both files](https://www.dropbox.com/scl/fo/p217a8xnmqy3wc41eq43h/h?dl=0&rlkey=wufict8wkt35kyws4utgwm5f4)
 
 you first need the .OBB file containing folder which is in the dropbox to place it in the Device/Android/obb folder (it might not work with the pc directly so sometimes you need to make the last move into the folder trought your device and not the PC)
+![place](images/pixelgunplace.jpg)
+
 
 then you also have the APK
 once the game is downloaded trought the APK
@@ -12,5 +14,5 @@ Now don't fear, its exactly what you want to see, once you restart the app, the 
 
 ### enjoy your game!!
 
-![game](images/pixelgunplace.jpg)
+![game](images/game.jpg)
 

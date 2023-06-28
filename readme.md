@@ -9,6 +9,8 @@ this game has been destroyed by creators and the fun is gone nowerdays
 but i found the old version for that game
 [you will need a further tutorial to install it since its hard](pixelgun.md)
 
+![game](images/game.jpg)
+
 **2. sas 3 (modded and unmodded)**
 
 heres both modded and unmodded sas 3 games
