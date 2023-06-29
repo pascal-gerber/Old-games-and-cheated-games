@@ -12,7 +12,10 @@ you will get this screen when opening
 ![scary](images/scary.jpg)
 Now don't fear, its exactly what you want to see, once you restart the app, the game launches and works perfectly (close it as well)
 
+i have also created a network on (zerotier one)[https://d.apkpure.com/b/APK/com.zerotier.one?version=latest] since online play does'nt work
+so once you downloaded it you join this adress: **1d71939404a9ec24**
+if you're lucky many other people did that before too and you might be able to play with more people
+
 ### enjoy your game!!
 
 ![game](images/game.jpg)
-
