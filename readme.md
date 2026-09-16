@@ -59,4 +59,9 @@ a modified game of armscraft that allows you to play it offline
 
 ![Armscraft](images/armscraft.jpg)
 
+**9. War of tanks**
+
+Note: i tested it on adroid 12 it bugs before you can shoot, so it won't work on there but on android 9 it works properly
+
+![War of tanks](images/war%20of%20tanks.jpg)
 ## Enjoy!!!
