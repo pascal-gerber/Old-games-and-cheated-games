@@ -62,6 +62,8 @@ a modified game of armscraft that allows you to play it offline
 **9. War of tanks**
 
 Note: i tested it on adroid 12 it bugs before you can shoot, so it won't work on there but on android 9 it works properly
+Bug report, you cannot skip the tutorial by leaving it, it will also softlock your game and spawn you with a tank with no health only to die in the tutorial again and again (which is hillarious is you ask me)
 
 ![War of tanks](images/war%20of%20tanks.jpg)
+
 ## Enjoy!!!
