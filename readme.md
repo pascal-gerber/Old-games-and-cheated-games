@@ -15,6 +15,7 @@ but i found the old version for that game
 
 heres both modded and unmodded sas 3 games
 Enjoy the infinite money!
+New update, i added all the maps to those versions since you can't download them anymore
 
 ![sas infinite](images/sas3.jpg)
 
