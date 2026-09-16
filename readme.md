@@ -53,4 +53,10 @@ a simple and fun good old diamond clicker that sadly doesnt exist on play store 
 
 ![Diamond](images/diamond.jpg)
 
+**8. Armscraft/pixel gun craft**
+
+a modified game of armscraft that allows you to play it offline
+
+![Armscraft](images/armscraft.jpg)
+
 ## Enjoy!!!
