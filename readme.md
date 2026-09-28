@@ -75,7 +75,7 @@ old minecraft like game, you can make saves and its just very simple
 Bloons td 4 newest version
 Note: struggles with saving the game
 
-![BTD 4](images/btd.jpg)
+![BTD 4](images/btd4.jpg)
 
 **12. Robo defence**
 Premium version of robo defence
