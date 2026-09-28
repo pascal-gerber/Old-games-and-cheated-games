@@ -67,17 +67,20 @@ Bug report, you cannot skip the tutorial by leaving it, it will also softlock yo
 ![War of tanks](images/war%20of%20tanks.jpg)
 
 **10. Petravis**
+
 old minecraft like game, you can make saves and its just very simple
 
 ![Petravis](images/Petravis.jpg)
 
 **11. Bloons TD 4**
+
 Bloons td 4 newest version
 Note: struggles with saving the game
 
 ![BTD 4](images/btd4.jpg)
 
 **12. Robo defence**
+
 Premium version of robo defence
 Note: the game is still findable on play store but its extremely old and might soon no longer exist
 
